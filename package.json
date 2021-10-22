@@ -1,7 +1,7 @@
 {
   "name": "vue-stopping-number",
-  "version": "0.0.1",
-  "description": "这是一个Vue组件，在数值更改后提供自动逐步过渡显示，以便数值更改看起来不会突兀。This is a Vue component that provides an automatic step-by-step transition display after a numerical change, so that the numerical change does not seem sudden.",
+  "version": "0.0.2",
+  "description": "这是一个 Vue 组件，提供一个数值修改后自动逐步过渡的显示器，以便数值更改看起来不会突兀。This is a Vue component that provides an automatic step-by-step transition display after a numerical change, so that the numerical change does not seem sudden.",
   "author": "Yesifang",
   "license": "MIT",
   "private": false,
